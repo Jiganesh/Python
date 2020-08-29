@@ -132,27 +132,3 @@ print("Reversing Recursive Approach : ")
 List.view()
 
 print("Middle element in LinkedList is : ", List.find_middle())
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
