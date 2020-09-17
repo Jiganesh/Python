@@ -1,4 +1,4 @@
-''' Traversal, Appending, Prepend, Insert_after_Node, Delete, Reverse, Find_Middle'''
+''' Traversal, Appending, Prepend, Insert_after_Node, Delete, Reverse, Find_Middle, Detecting Loop'''
 
 class Node:
           def __init__(self, data):
@@ -93,14 +93,27 @@ class Linkedlist:
 
           def find_middle (self):
                     fast=slow=self.head
-                    while fast and fast.next :
+                    while slow and fast and fast.next :
                               slow,fast= slow.next,fast.next.next
                     return slow.data
+
+          def detect_loop(self):
+                    print()
+                    fast=slow=self.head
+                    while slow and fast and fast.next:
+                              slow,fast=slow.next, fast.next.next
+                              if slow==fast:
+                                        return "Loop detected"
+
+                    return "No Loop detected"
 
 List=Linkedlist()
 List.append("B")                                  
 List.append("C")
 List.append("G")
+List.append("A")
+List.append("Z")
+
 print("Appending : B, C, G ")
 List.view()
 
@@ -132,3 +145,5 @@ print("Reversing Recursive Approach : ")
 List.view()
 
 print("Middle element in LinkedList is : ", List.find_middle())
+
+print(List.detect_loop())
