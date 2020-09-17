@@ -1,2 +1,3 @@
 # Codes
-Repository Containing all major Codes and Concepts to learn from...............
+
+All Important Codes and Concepts
