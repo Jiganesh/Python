@@ -1,4 +1,4 @@
-''' Traversal, Appending, Prepend, Insert_after_Node, Delete, Reverse, Find_Middle, Detecting Loop'''
+''' Traversal, Appending, Prepend, Insert_after_Node, Delete, Reverse, Find_Middle, Detecting Loop, Making loop, Removing loop'''
 
 class Node:
           def __init__(self, data):
@@ -10,14 +10,16 @@ class Linkedlist:
           def __init__(self):
                     self.head= None
 
-          def view(self):
+          def view(self,node=1000):
                     if self.head is None:
                               print("List is empty")
                     else:
-                              last_node=self.head
-                              while last_node != None:
+                              last_node=self.head  
+                              count=0
+                              while last_node != None and count < node:
                                         print(last_node.data,end="----->")
                                         last_node=last_node.next
+                                        count+=1
                               print()
                     print()
 
@@ -95,24 +97,51 @@ class Linkedlist:
                     fast=slow=self.head
                     while slow and fast and fast.next :
                               slow,fast= slow.next,fast.next.next
+          
+
                     return slow.data
 
           def detect_loop(self):
-                    print()
                     fast=slow=self.head
                     while slow and fast and fast.next:
                               slow,fast=slow.next, fast.next.next
                               if slow==fast:
                                         return "Loop detected"
-
                     return "No Loop detected"
 
+          def make_loop(self, k):
+                    temp=self.head
+                    count=0
+                    while count!=k:
+                              temp=temp.next
+                              count+=1
+                    joint=temp
+                    while temp.next !=None:
+                              temp=temp.next
+                    temp.next=joint
+
+          def remove_loop(self,node):
+                    ptr1=self.head
+                    while True:
+                              ptr2=node
+                              while ptr2.next !=node and ptr2.next!=ptr1:
+                                        ptr2=ptr2.next
+                              if ptr2.next!=ptr1:
+                                        break
+                              ptr1=ptr1.next
+                    ptr2.next=None
+
+                    
+
 List=Linkedlist()
-List.append("B")                                  
+
+
+List.append("B")
 List.append("C")
 List.append("G")
 List.append("A")
 List.append("Z")
+List.view()
 
 print("Appending : B, C, G ")
 List.view()
@@ -144,6 +173,19 @@ List.reverse_recursive()
 print("Reversing Recursive Approach : ")
 List.view()
 
-print("Middle element in LinkedList is : ", List.find_middle())
+
+
+print("Middle element in LinkedList is : ", List.find_middle(),end="\n\n")
+
+print(List.detect_loop(),end="\n")
+List.view()
+
+List.make_loop(2)
 
 print(List.detect_loop())
+List.view(7)
+
+List.remove_loop(List.head.next.next)
+
+print(List.detect_loop())
+List.view()
