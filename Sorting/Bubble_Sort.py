@@ -8,4 +8,4 @@ def bubblesort(array):
                                         array[j],array[j+1]=array[j+1],array[j]
           return array
 
-print(bubblesort([8,6,4,6,8,2,5,0,9,1,6,7]))
+print(bubblesort([8,6,4,6,8,2,5,0,9,1,6,7,20,30]))
