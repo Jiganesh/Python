@@ -22,3 +22,4 @@ class Solution(object):
         return res
 
 print(Solution().romanToInt("III"))
+print(Solution().romanToInt("VII"))
