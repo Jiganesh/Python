@@ -3,9 +3,7 @@ class Dog :
         print("woof")
 
 class AngryDog (Dog):
-    def Bark (self, num):
-        for i in range (num):
-            print("woof")
+    def Bark (self):
+        print("Angry Bark")
 
-
-AngryDog().Bark(7)
+AngryDog().Bark()
