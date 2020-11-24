@@ -17,5 +17,3 @@ def lcsa(str1,str2):
           return lcs[-1][-1]
 
 print(lcsa("dsadsa","asadas"))
-
-          
