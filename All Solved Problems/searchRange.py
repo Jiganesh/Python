@@ -1,4 +1,5 @@
 #https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/
+
 class Solution(object):
     def searchRange(self, nums, target):
         """

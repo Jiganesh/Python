@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/longest-palindrome/
+
 class Solution(object):
 
     def getpalindrome(self,s,leftidx,rightidx):
@@ -22,4 +24,3 @@ class Solution(object):
             
         return s[current[0]:current[1]]
 
-print(Solution().longestPalindrome("babad"))

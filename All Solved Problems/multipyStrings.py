@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/multiply-strings/
+
 class Solution(object):
     def multiply(self, num1, num2):
         """
@@ -23,5 +25,3 @@ class Solution(object):
                 ans=ans//10
         a=a[::-1]
         return "".join([d2[i] for i in a]) if len(a)>0 else "0"
-
-print(Solution().multiply("2","3"))

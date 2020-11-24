@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/reverse-integer/
+
 class Solution(object):
     def reverse(self, x):
         """
@@ -14,9 +16,3 @@ class Solution(object):
         
         # The largest 32 bit number is not 2^32 cause we need 1 bit to reserve sign bit
         # Hence 2**32 - 1
-                
-
-print(Solution().reverse(321))
-print(Solution().reverse(-348))
-print(Solution().reverse(0))
-

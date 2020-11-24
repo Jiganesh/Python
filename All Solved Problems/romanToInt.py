@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/roman-to-integer/
+
 class Solution(object):
     def romanToInt(self, s):
         """
@@ -20,6 +22,3 @@ class Solution(object):
                         res+=d[curr_roman]
                         i+=1
         return res
-
-print(Solution().romanToInt("III"))
-print(Solution().romanToInt("VII"))

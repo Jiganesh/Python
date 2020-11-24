@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/group-anagrams/
+
 class Solution(object):
     def groupAnagrams(self, strs):
         """
@@ -12,5 +14,3 @@ class Solution(object):
             else:
                 d[sortedword]=[word]
         return list(d.values())
-
-print(Solution().groupAnagrams(["eat","tea","tan","ate","nat","bat"]))

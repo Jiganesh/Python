@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/longest-common-prefix/
+
 class Solution(object):
     
     def find(self , s1, s2):
@@ -23,5 +25,3 @@ class Solution(object):
         for i in strs:
             result = Solution().find(result, i)
         return result
-
-print(Solution().longestCommonPrefix(["flower","flow","flight"]))

@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/permutations/
+
 class Solution(object):
     def heapPermutation(self, a, size, n,res):
  
@@ -22,5 +24,3 @@ class Solution(object):
         """
         n=len(nums)
         return [list(i) for i in self.heapPermutation(nums,n,n,[])]
-
-print(Solution().permute([1,2,3]))

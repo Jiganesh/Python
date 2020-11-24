@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/valid-anagram/
+
 class Solution(object):
     def isAnagram(self, s, t):
         """
@@ -6,6 +8,3 @@ class Solution(object):
         :rtype: bool
         """
         return {i: s.count(i) for i in s}=={i :t.count(i) for i in t}
-
-print(Solution().isAnagram("stop","pots"))
-print(Solution().isAnagram("nope","pope"))

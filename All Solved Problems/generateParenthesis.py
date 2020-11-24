@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/generate-parentheses/
+
 class Solution(object):
     def backtracking (self, output_array, current_string , count_open ,count_close , n):
         

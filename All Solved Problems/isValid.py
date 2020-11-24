@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/valid-parentheses/
+
 class Solution(object):
     def isValid(self, s):
         """
@@ -14,5 +16,3 @@ class Solution(object):
                 stack.append(i)
                 
         return True if len(stack)==0 else False
-
-print(Solution().isValid("(){}[]"))
