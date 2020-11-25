@@ -34,3 +34,12 @@ def binarysearch_recursive(array,l,r,find):
 
 array=[1,2,3,4,5,6,7,8]
 print(binarysearch_recursive(array,0,len(array)-1,6))
+
+"""
+Theory on Searching Algorithms:
+
+Linear Search  = O(n)
+Binary Search = O(log(n))
+Ternary Search = O(log3(n))
+Interpolation Search = O(log(log(n)))
+"""
