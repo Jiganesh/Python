@@ -25,3 +25,4 @@ class Solution(object):
         for _ in range (n-1):
             number= self.generate(number)
         return number
+        
