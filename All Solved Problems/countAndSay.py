@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/count-and-say/submissions/
+
 class Solution(object):
     
     def generate(self, n):
@@ -20,6 +22,6 @@ class Solution(object):
         :rtype: str
         """
         number="1"    
-        for i in range (n-1):
+        for _ in range (n-1):
             number= self.generate(number)
         return number
