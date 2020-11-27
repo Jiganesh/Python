@@ -1,4 +1,4 @@
-#https://leetcode.com/problems/group-anagrams/
+# https://leetcode.com/problems/group-anagrams/
 
 class Solution(object):
     def groupAnagrams(self, strs):
@@ -6,11 +6,11 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        d={}
-        for word in strs :
+        d = {}
+        for word in strs:
             sortedword = "".join(sorted(word))
             if sortedword in d:
                 d[sortedword].append(word)
             else:
-                d[sortedword]=[word]
+                d[sortedword] = [word]
         return list(d.values())
