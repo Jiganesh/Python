@@ -76,7 +76,7 @@ def decimalToOctal(decimal):
          "4": "100",
          "5": "101",
          "6": "110",
-         "7": "111"
+         "7": "111",
          }
     octal = ""
     for i in str(decimal):
@@ -84,7 +84,32 @@ def decimalToOctal(decimal):
     return octal
 
 
+def decimalToHexadecimal(decimal):
+
+    d = {"0": "0000",
+         "1": "0001",
+         "2": "0010",
+         "3": "0011",
+         "4": "0100",
+         "5": "0101",
+         "6": "0110",
+         "7": "0111",
+         "8": "1000",
+         "9": "1001",
+         "A": "1010",
+         "B": "1100",
+         "C": "1101",
+         "D": "1110",
+         "E": "1111"
+         }
+    hexadecimal = ""
+    for i in str(decimal):
+        hexadecimal += d[i]
+    return hexadecimal
+
+
 print(binaryToDecimal(1111))
 print(binaryToOctal(110111100))
 print(binaryToHexadecimal(11))
 print(decimalToOctal(23))
+print(decimalToHexadecimal(23))
