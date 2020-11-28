@@ -25,7 +25,7 @@ def binaryToOctal(binary):
          "110": "6",
          "111": "7"
          }
-    
+
     octal = ""
     i = 0
     while i+3 <= len(binary):
@@ -67,6 +67,24 @@ def binaryToHexadecimal(binary):
     return hexadecimal
 
 
+def decimalToOctal(decimal):
+
+    d = {"0": "000",
+         "1": "001",
+         "2": "010",
+         "3": "011",
+         "4": "100",
+         "5": "101",
+         "6": "110",
+         "7": "111"
+         }
+    octal = ""
+    for i in str(decimal):
+        octal += d[i]
+    return octal
+
+
 print(binaryToDecimal(1111))
 print(binaryToOctal(110111100))
 print(binaryToHexadecimal(11))
+print(decimalToOctal(23))
