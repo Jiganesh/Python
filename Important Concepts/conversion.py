@@ -107,12 +107,9 @@ def decimalToHexadecimal(decimal):
         hexadecimal += d[i]
     return hexadecimal
 
-def hexadecimalToOctal(hexa):
-    
 
-
-print(binaryToDecimal(00100011))
-print(binaryToOctal(00100011))
-print(binaryToHexadecimal(00100011))
+print(binaryToDecimal("00100011"))
+print(binaryToOctal("00100011"))
+print(binaryToHexadecimal("10000011"))
 print(decimalToOctal(23))
 print(decimalToHexadecimal(23))
