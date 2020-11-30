@@ -6,7 +6,7 @@ def split_num(num):
     if str_len & 1 == False:
         return str_num[:str_len_by], "", str_num[str_len_by:]
     else:
-        return str_num[:str_len_by], str_num[str_len_by], str_num[str_len_by:]
+        return str_num[:str_len_by], str_num[str_len_by], str_num[str_len_by+1:]
 
 
 '''
@@ -41,4 +41,4 @@ def next_palindrome(x):
     return int(left+mid+right)
 
 
-print(next_palindrome(734546724582) >= 734546724582)
+print(next_palindrome(734546724582))

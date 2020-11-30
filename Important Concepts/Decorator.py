@@ -1,16 +1,18 @@
-#Destructor
+# Destructor
 
-def div(a,b):
-          print(a/b)
+def div(a, b):
+    print(a/b)
+
 
 def smart_div(func):
 
-          def inner(a,b):
-                    if b>a:
-                              a,b=b,a
-                    return func(a,b)
-          
-          return inner
+    def inner(a, b):
+        if b > a:
+            a, b = b, a
+        return func(a, b)
 
-div=smart_div(div)
-div(5,7)
+    return inner
+
+
+div = smart_div(div)
+div(5, 7)

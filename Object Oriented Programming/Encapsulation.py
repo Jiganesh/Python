@@ -15,7 +15,7 @@ class Robot:
 
     def __init__(self):
         print("In class Robot")
-        self.robot = 123
+        self.robot = 123 
         self._robot1 = 124
         self.__robot2 = 125
 

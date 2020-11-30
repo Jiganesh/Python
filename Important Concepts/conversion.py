@@ -66,8 +66,23 @@ def binaryToHexadecimal(binary):
         i += 4
     return hexadecimal
 
+def decimalToBinary(decimal):
+    binary=""
+
+    while decimal!=0:
+        binary += str(decimal%2)
+        decimal =decimal//2
+    return binary[::-1]
 
 def decimalToOctal(decimal):
+    octal= ""
+    while decimal:
+        octal+=str(decimal%8)
+        decimal//=8
+    return octal[::-1]
+
+
+def octalToBinary(octal):
 
     d = {"0": "000",
          "1": "001",
@@ -78,13 +93,13 @@ def decimalToOctal(decimal):
          "6": "110",
          "7": "111",
          }
-    octal = ""
-    for i in str(decimal):
+    binary = ""
+    for i in str(octal):
         octal += d[i]
-    return octal
+    return binary
 
 
-def decimalToHexadecimal(decimal):
+def hexadecimaltoBinary(hexadecimal):
 
     d = {"0": "0000",
          "1": "0001",
@@ -102,14 +117,16 @@ def decimalToHexadecimal(decimal):
          "D": "1110",
          "E": "1111"
          }
-    hexadecimal = ""
-    for i in str(decimal):
-        hexadecimal += d[i]
-    return hexadecimal
-
+    binary = ""
+    for i in str(hexadecimal):
+        binary += d[i]
+    return binary
 
 print(binaryToDecimal("00100011"))
 print(binaryToOctal("00100011"))
 print(binaryToHexadecimal("10000011"))
-print(decimalToOctal(23))
-print(decimalToHexadecimal(23))
+
+print(decimalToBinary(6))
+print(decimalToOctal(1001))
+print(oct(1001)) 
+

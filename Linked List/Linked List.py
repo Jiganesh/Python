@@ -105,6 +105,7 @@ class Linkedlist:
         while slow and fast and fast.next:
             slow, fast = slow.next, fast.next.next
             if slow == fast:
+                self.remove_loop(slow.next.next)
                 return "Loop detected"
         return "No Loop detected"
 
@@ -182,7 +183,6 @@ List.make_loop(2)
 print(List.detect_loop())
 List.view(7)
 
-List.remove_loop(List.head.next.next)
 
 print(List.detect_loop())
 List.view()
