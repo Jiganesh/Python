@@ -1,25 +1,25 @@
 from abc import ABC, abstractmethod
 
 class Computer(ABC):
-          
-          
-          def process(self):
-                    return "Running"
 
-          @abstractmethod
-          def onlydeclare(self):
-                    pass
+    def process(self):
+        return "Running"
+
+    @abstractmethod
+    def onlydeclare(self):
+        pass
+
 
 class Laptop(Computer):
-          
-          def onlydeclare(self):
-                    return "Done"
+
+    def onlydeclare(self):
+        return "Done"
 
 
-#obj=Computer()
-#Abstract methods are like fill in the blanks as Child class inherits Parent abstract class the abstract methods are needed to be defined.
+# obj=Computer()
+# Abstract methods are like fill in the blanks as Child class inherits Parent abstract class the abstract methods are needed to be defined.
 
-obj1=Laptop()
+obj1 = Laptop()
 print(obj1.onlydeclare())
 print(obj1.process())
 
