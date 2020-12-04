@@ -1,12 +1,12 @@
 Hack With Infy 
 
-Round 1 ---> Mode of Conduct - Online
+Round 1 ---> Mode of Conduct - Online👨‍💻
 3 Questions Easy, Medium, Kind of Medium with 50, 75, 100 marks respectively. 
 I wasn't a good Programmer at the moment as I just started Programming but I managed to solve 1 problem of 75 Marks and got few points in 50 Marks one
 
 (I wasnt expecting but cleared XD "crossed fingers lol")
 
-Round 2 ---> Mode of Conduct - Online
+Round 2 ---> Mode of Conduct - Online👨‍💻
 3 Questions Medium, Hard, shit Hard :P  50,75,100 Marks
 1st Problem was safe paths to find paths in a graph that can be visited avoiding the unwanted vertices
 I used DFS
@@ -17,11 +17,11 @@ HackwithInfy
 
 On 31st May
 
-ROUND 1 ---> Mode of Conduct - Online
+ROUND 1 ---> Mode of Conduct - Online👨‍💻
 Questions asked Aptitude, Python Programming (As I selected Python between Python and Java), DBMS, OOPS, DSA
 Medium
 
-Round 2 ---> Mode of Conduct - It was supposed to be Onsite but due to Pandemic it was shifted on to an  Online Platform
+Round 2 ---> Mode of Conduct - 👨‍💻It was supposed to be Onsite but due to Pandemic it was shifted on to an  Online Platform
 Questions ---> 20 MCQS Python, DSA, DBMS, OOPS ---> 2 Codes
 
 Problem Statement
@@ -82,17 +82,17 @@ s,ans,a,vowels= input(),"",[],['a','e','i','o','u']
 
 On 14th June
 
-I got mail to have cleared both contest till 6 July and a Walkthrough for the positions happened at start of August
+I got mail 💌to have cleared both contest till 6 July and a Walkthrough for the positions happened at start of August
 I was waiting for my Interview since then but August totally went for Finale of Top 100 and PP Inteviews
 September too PP and SES Inteviews but still I did not get my Slot.
-Well then on 6th October I received mail my Interview to be scheduled on 14th October, I started preparing.
+Well then on 6th October I received mail 💌my Interview to be scheduled on 14th October, I started preparing.
 I was confident with Python and DSA a lot and OOPs, I wouldhv handled.
 I skipped DBMS
 
-On 14th It got cancelled XD
+On 14th It got cancelled XD🥺
 (More time to prepare)
 
-After 10 mails to HackwithInfy It got scheduled on 1st Dec and still did not happen
+After 10 mails to HackwithInfy It got scheduled on 1st Dec and still did not happen🥺
 Again it got rescheduled on 3rd December
 
 (Till here I was Comfortable with any CSE subject CN, OS, DAA, DBMS, OOPS, Programming, System Design) I studied everything
@@ -100,7 +100,7 @@ Again it got rescheduled on 3rd December
 To my notice my Interview scheduled time was from 4 to 4.30 As Avg Interview span for a SES is 40 min.
 (I wanted more time to speak) XD
 
-I logged in 3.45 Sharp (I am very punctual and only one thing I hate is being late) and My Interviewer also logged In at 3.50
+I logged in 3.45 Sharp (I am very punctual and only one thing I hate is being late)🤗 and My Interviewer also logged In at 3.50
 
 recap on my Interviewer - He was VP and CTO at Infosys DA.
 He had masters from University of Florida and He was Working on I guess technologies like RPA and Chatbots.
@@ -116,7 +116,7 @@ We Caugth up with Greetings and Formality, Very Formal Kinda I guess I got comfo
 then I was asked to show up my ID's I thinks it was for InfyTQ's Verification Process
 Then we  spent some few minutes taking up screenshots as he was supposed to do that XD
 
-then it started (This is cake part)
+then it started (This is cake part)🤓
 
 My Introduction:
 
@@ -127,11 +127,11 @@ My Work in ARC
 I have taught many student in my college from first year to third year from Robots to Python
 I told about my Youtube channel, my subscriber count.
 (" He said Good luck with that", so I am analyzing Interviews since 3 Months daily, I am Pro in this things, Even though he spoke nicely
-that was negative comment.)
+that was negative comment.)😔
 
 He then asked me to wait so that he can pull up my Resume
 
-(Also Smiling in Interview feels weird as hell)
+(Also Smiling in Interview feels weird as hell)😛
 
 As I mentioned my work with Manual Bots in my Intro he asked what competitions have you gone
 
@@ -173,17 +173,17 @@ both take O(n) for Reversal
 
 I wasnt able to explain in such way, I talk crazy when nervous or unexpected interactions. If i was Interviewing myself I wont be satisfied.
 
-He asked my Hobbies
+He asked my Hobbies😄
 I  told I am a speedcuber I visit Campuses to play in competitions he asked any other hobby
 Like if u understand We already get so much less time how can we nurture our hobbies LOL 
 I shouldhv said cooking, But my brain was running like pentium chip like Commerce and Arts student
-I became a nerd i guess XD
+I became a nerd🤓 i guess XD
 
 I thing thats it guys then we moved to Any Questions part :
 
 I asked "AS I was Interviewed for SE and SES through InfyTQ and HackwithInfy I was going through Hierarchy of those I doesnt match Why is that so ?"
-Yeah I know pretty dope Question XD Tip --- Never ask their journey, They might already be bored answering that question LOL
-Also try not to ask your Performance directly u will get some boring answer.
+Yeah I know pretty dope Question XD Tip --- Never ask their journey, They might already be bored 😒answering that question LOL
+Also try not to ask your Performance directly u will get some boring answer😒.
 
 He then asked me what do you mean by Hierarchy I told
 
@@ -197,4 +197,4 @@ For me Good Experience but very delayed, I learnt a lot this year and only becau
 
 
 I still feel I messed up a little could have been better if i got some Technical Questions
-I studied every CSE subject but i wasn't asked any of it :( 
+I studied every CSE subject but i wasn't asked any of it :( 😞
