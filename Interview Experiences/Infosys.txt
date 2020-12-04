@@ -1,19 +1,19 @@
 Hack With Infy 
 
 Round 1 ---> Mode of Conduct - Online
-3 QUestions Easy, Medium, Kind of Medium with 50, 75, 100 marks respectively. 
-I wasnt a good Programmer at the moment as I just started Programming but I managed to solve 1 problem of 75 Marks and got few points in 50 Marks one
+3 Questions Easy, Medium, Kind of Medium with 50, 75, 100 marks respectively. 
+I wasn't a good Programmer at the moment as I just started Programming but I managed to solve 1 problem of 75 Marks and got few points in 50 Marks one
 
 (I wasnt expecting but cleared XD "crossed fingers lol")
 
 Round 2 ---> Mode of Conduct - Online
-3 Questions Medium, Hard, shit Hard :P  50 Marks
+3 Questions Medium, Hard, shit Hard :P  50,75,100 Marks
 1st Problem was safe paths to find paths in a graph that can be visited avoiding the unwanted vertices
 I used DFS
 
 2nd Problem (Till this date I am trying to remember it :P) 75 Marks
-We were not given Testcase so I am not sure how much Tc's I must have passed but hope for good and 1 and a 1/2 problem is sufficient I guess.
-InfyTQ 
+We were not given Testcase so I am not sure how much TC's I must have passed but hope for good and 1 and a 1/2 problem is sufficient I guess.
+HackwithInfy 
 
 On 31st May
 
@@ -86,7 +86,7 @@ I got mail to have cleared both contest till 6 July and a Walkthrough for the po
 I was waiting for my Interview since then but August totally went for Finale of Top 100 and PP Inteviews
 September too PP and SES Inteviews but still I did not get my Slot.
 Well then on 6th October I received mail my Interview to be scheduled on 14th October, I started preparing.
-I was confident with Python and DSA a lot and OOPs I wouldhv handled.
+I was confident with Python and DSA a lot and OOPs, I wouldhv handled.
 I skipped DBMS
 
 On 14th It got cancelled XD
@@ -106,9 +106,10 @@ recap on my Interviewer - He was VP and CTO at Infosys DA.
 He had masters from University of Florida and He was Working on I guess technologies like RPA and Chatbots.
 I wont be able to judge someone in 30 min but He was cool like me XD
 
-I was wearing formals white formal shirt, blue Tie and my Blazzer and ofcourse Jeans.
+I was wearing formals, white formal shirt, blue Tie and my Blazzer and ofcourse Jeans.
+I wish I could wear Hoodie🤩
 LOL wear something below even though it is online Interview.
-I was looking like Fat John wick with clean shave and without Guns:P
+I was looking like 😎Fat John wick with clean shave and without Guns:P
 
 We Caugth up with Greetings and Formality, Very Formal Kinda I guess I got comfortable early.
 
@@ -148,31 +149,31 @@ He refactored Question and asked How a Rock and a Ball can be detected ?
 I went on with Raspberry pi and pi Camera Module told I would use Open CV and Image Processing. (For me that was Satisfactory)
 (I have some smart friends, every technology I know they taugth me. I learnt nothing in my school and college, Self Study is looob)
 
-About my Internship as I worked as Quality COntrol and also as a DEVELOPER he asked me which you like the most.
+About my Internship as I worked as Quality Control and also as a DEVELOPER he asked me which you like the most.
 Definitely I told my work as QCE and as DEVELOPER I get to learn more at my own pace and all that fluff stuff
 
 Higher Studies?
 I told I would like to work in and Industry, I feel that I would learn much more there.
 
-In my Mind : Hell No, I can die but I will now never go to some college now.
+In my Mind : Hell No, I can die but I will never go to some college now.
 
 I dont remember exact but it came to problem solving and somehow to Datastructures He asked What all Data-Structures you know
 Now I can list those that even u wont know but with nervousness I was just able to list basic Datastructures Linkedlist, Stack, Queues, Trees, Graphs
 I said i have used them to solve problems reversal of string, linkedlist and all that.
 
-HE questioned what Datastructures would u use to reverse a stirng ur opinion no wrong or right answer here totally ur opinion
+HE questioned what Datastructures would u use to reverse a string your opinion no wrong or right answer here totally ur opinion
 
 I said we could use stack and pop everylast element it will be good also we can use reverse linkedlist algorithm and that could do the job.
 
 I studied DSA for much time the correct answer is Linkedlist let me elaborate.
-stack migth use extra contigous space in memory and pop is shitty Idea
+stack might use extra contiguous space in memory and pop is shitty Idea
 Reversal of linkedlist is good idea and setting up head pointer at Tail is pretty efficient
 both take O(n) for Reversal
 
 
 I wasnt able to explain in such way, I talk crazy when nervous or unexpected interactions. If i was Interviewing myself I wont be satisfied.
 
-HE asked my Hobbies
+He asked my Hobbies
 I  told I am a speedcuber I visit Campuses to play in competitions he asked any other hobby
 Like if u understand We already get so much less time how can we nurture our hobbies LOL 
 I shouldhv said cooking, But my brain was running like pentium chip like Commerce and Arts student
@@ -180,8 +181,8 @@ I became a nerd i guess XD
 
 I thing thats it guys then we moved to Any Questions part :
 
-I asked "AS I was Interviewed for SE and SES through INfyTQ and HackwithInfy I was going through Hierarchy of those I doesnt match Why is that so ?"
-Yeah I know pretty dope Question XD Tip --- Never ask their journey, They might already be vored answering that question LOL
+I asked "AS I was Interviewed for SE and SES through InfyTQ and HackwithInfy I was going through Hierarchy of those I doesnt match Why is that so ?"
+Yeah I know pretty dope Question XD Tip --- Never ask their journey, They might already be bored answering that question LOL
 Also try not to ask your Performance directly u will get some boring answer.
 
 He then asked me what do you mean by Hierarchy I told
@@ -190,10 +191,10 @@ SE --> SES --> PP --> Techlead --> Analyst
 SES --> PP --> Enterprise Architect
 
 He answered very detailed and properly.
-For me Good Experience but very delayed, I learnt a lot this year and only because of Infosy, I hope I get SES there !! Pray for me YAll
+For me Good Experience but very delayed, I learnt a lot this year and only because of Infosys, I hope I get SES there !! Pray for me YAll
 :)
 
 
 
 I still feel I messed up a little could have been better if i got some Technical Questions
-I studied every CSE subject but i wanst asked any of it :( 
+I studied every CSE subject but i wasn't asked any of it :( 
