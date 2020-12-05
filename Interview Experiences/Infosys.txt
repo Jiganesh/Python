@@ -6,7 +6,7 @@ I wasn't a good Programmer at the moment as I just started Programming but I man
 
 (I wasnt expecting but cleared XD "crossed fingers lol")
 
-Round 2 ---> Mode of Conduct - Online👨‍💻
+Round 2 ---> Mode of Conduct - Online👨‍💻 31st May
 3 Questions Medium, Hard, shit Hard :P  50,75,100 Marks
 1st Problem was safe paths to find paths in a graph that can be visited avoiding the unwanted vertices
 I used DFS
@@ -15,13 +15,15 @@ I used DFS
 We were not given Testcase so I am not sure how much TC's I must have passed but hope for good and 1 and a 1/2 problem is sufficient I guess.
 HackwithInfy 
 
-On 31st May
+
+INFYTQ 
 
 ROUND 1 ---> Mode of Conduct - Online👨‍💻
 Questions asked Aptitude, Python Programming (As I selected Python between Python and Java), DBMS, OOPS, DSA
 Medium
 
 Round 2 ---> Mode of Conduct - 👨‍💻It was supposed to be Onsite but due to Pandemic it was shifted on to an  Online Platform
+14th June
 Questions ---> 20 MCQS Python, DSA, DBMS, OOPS ---> 2 Codes
 
 Problem Statement
@@ -61,7 +63,7 @@ s --> consonants
 
 My Solution in Python3
 
-s,ans,a,vowels= input(),"",[],['a','e','i','o','u']
+    s,ans,a,vowels= input(),"",[],['a','e','i','o','u']
     for i in s :
         a.append(1) if i in vowels else a.append(-1)    
 
@@ -82,8 +84,8 @@ s,ans,a,vowels= input(),"",[],['a','e','i','o','u']
 
 On 14th June
 
-I got mail 💌to have cleared both contest till 6 July and a Walkthrough for the positions happened at start of August
-I was waiting for my Interview since then but August totally went for Finale of Top 100 and PP Inteviews
+I got mail 💌to have cleared both contest till 6 July and a Walkthrough for the positions happened at start of August.
+I was waiting for my Interview since then but August totally went for Finale of Top 100 and PP Inteviews.
 September too PP and SES Inteviews but still I did not get my Slot.
 Well then on 6th October I received mail 💌my Interview to be scheduled on 14th October, I started preparing.
 I was confident with Python and DSA a lot and OOPs, I wouldhv handled.
@@ -93,12 +95,12 @@ On 14th It got cancelled XD🥺
 (More time to prepare)
 
 After 10 mails to HackwithInfy It got scheduled on 1st Dec and still did not happen🥺
-Again it got rescheduled on 3rd December
+Again it got rescheduled on 3rd December.
 
 (Till here I was Comfortable with any CSE subject CN, OS, DAA, DBMS, OOPS, Programming, System Design) I studied everything
 
 To my notice my Interview scheduled time was from 4 to 4.30 As Avg Interview span for a SES is 40 min.
-(I wanted more time to speak) XD
+(I wanted more time to speak) XD.
 
 I logged in 3.45 Sharp (I am very punctual and only one thing I hate is being late)🤗 and My Interviewer also logged In at 3.50
 
@@ -191,10 +193,7 @@ SE --> SES --> PP --> Techlead --> Analyst
 SES --> PP --> Enterprise Architect
 
 He answered very detailed and properly.
-For me Good Experience but very delayed, I learnt a lot this year and only because of Infosys, I hope I get SES there !! Pray for me YAll
-:)
-
-
+For me Good Experience but very delayed, I learnt a lot this year and only because of Infosys, I hope I get SES there !! Pray for me YAll :)
 
 I still feel I messed up a little could have been better if i got some Technical Questions
 I studied every CSE subject but wasn't asked any of it :( 😞
