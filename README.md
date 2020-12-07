@@ -2,7 +2,7 @@ I have maintained a repository for all the important codes and concepts,I have l
 
 FOLDERS :
 
-**All Solved Problems --> Problems from Leetcode and HackerRank
+**All Solved Problems --> Problems from Leetcode and HackerRank**
 
 **Dynamic Programming --> Problem based on Dynamic Programming, Important Concepts
 
