@@ -4,18 +4,18 @@ FOLDERS :
 
 **All Solved Problems --> Problems from Leetcode and HackerRank**
 
-**Dynamic Programming --> Problem based on Dynamic Programming, Important Concepts
+**Dynamic Programming --> Problem based on Dynamic Programming, Important Concepts**
 
-**Graphs --> Graphs and Graph Algorithms
+**Graphs --> Graphs and Graph Algorithms**
 
-**Important Concepts --> Random but Important Stuff
+**Important Concepts --> Random but Important Stuff**
 
-**Interview Experiences --> My Interview Experiences
+**Interview Experiences --> My Interview Experiences**
 
-**Linked List --> Linked List Important Algorithms
+**Linked List --> Linked List Important Algorithms**
 
-**OOPs - Pillars of OOPS
+**OOPs - Pillars of OOPS**
 
-**Searching --> Linear and Binary search Algorithms
+**Searching --> Linear and Binary search Algorithms**
 
-**Sorting -->  All Sorting Algorithms
+**Sorting -->  All Sorting Algorithms**
