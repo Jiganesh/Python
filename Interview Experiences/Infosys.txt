@@ -1,4 +1,4 @@
-Hack With Infy 
+**Hack With Infy** 
 
 Round 1 ---> Mode of Conduct - Online👨‍💻
 3 Questions Easy, Medium, Kind of Medium with 50, 75, 100 marks respectively. 
@@ -16,7 +16,7 @@ We were not given Testcase so I am not sure how much TC's I must have passed but
 HackwithInfy 
 
 
-INFYTQ 
+**INFYTQ**
 
 ROUND 1 ---> Mode of Conduct - Online👨‍💻
 Questions asked Aptitude, Python Programming (As I selected Python between Python and Java), DBMS, OOPS, DSA
@@ -66,7 +66,6 @@ My Solution in Python3
     s,ans,a,vowels= input(),"",[],['a','e','i','o','u']
     for i in s :
         a.append(1) if i in vowels else a.append(-1)    
-
     s1=s[0]
 
     for i in range (0, len(a)-1):
@@ -128,8 +127,8 @@ My Experiences during Internship
 My Work in ARC
 I have taught many student in my college from first year to third year from Robots to Python
 I told about my Youtube channel, my subscriber count.
-(" He said Good luck with that", so I am analyzing Interviews since 3 Months daily, I am Pro in this things, Even though he spoke nicely
-that was negative comment.)😔
+(" He said Good luck with that", so I am analyzing Interviews since 3 Months daily, I am Pro in this things, 
+Even though he spoke nicely that was negative comment.)😔
 
 He then asked me to wait so that he can pull up my Resume
 
@@ -172,9 +171,7 @@ stack might use extra contiguous space in memory and pop is shitty Idea
 Reversal of linkedlist is good idea and setting up head pointer at Tail is pretty efficient
 both take O(n) for Reversal
 
-
-I wasnt able to explain in such way, I talk crazy when nervous or unexpected interactions. If i was Interviewing myself I wont be satisfied.
-
+I wasnt able to explain in such way. If i was Interviewing myself I wont be satisfied.
 He asked my Hobbies😄
 I  told I am a speedcuber I visit Campuses to play in competitions he asked any other hobby
 Like if u understand We already get so much less time how can we nurture our hobbies LOL 
@@ -197,3 +194,6 @@ For me Good Experience but very delayed, I learnt a lot this year and only becau
 
 I still feel I messed up a little could have been better if i got some Technical Questions
 I studied every CSE subject but wasn't asked any of it :( 😞
+
+I got result today on 9th December --> I AM SELECTED FOR SE AND SES BOTH LOL
+HURRAY !!!
