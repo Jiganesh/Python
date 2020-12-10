@@ -171,7 +171,7 @@ stack might use extra contiguous space in memory and pop is shitty Idea
 Reversal of linkedlist is good idea and setting up head pointer at Tail is pretty efficient
 both take O(n) for Reversal
 
-I wasnt able to explain in such way. If i was Interviewing myself I wont be satisfied.
+I wasnt able to explain in such way. If I was Interviewing myself I wont be satisfied.
 He asked my Hobbies😄
 I  told I am a speedcuber I visit Campuses to play in competitions he asked any other hobby
 Like if u understand We already get so much less time how can we nurture our hobbies LOL 
@@ -182,7 +182,7 @@ I thing thats it guys then we moved to Any Questions part :
 
 I asked "AS I was Interviewed for SE and SES through InfyTQ and HackwithInfy I was going through Hierarchy of those I doesnt match Why is that so ?"
 Yeah I know pretty dope Question XD Tip --- Never ask their journey, They might already be bored 😒answering that question LOL
-Also try not to ask your Performance directly u will get some boring answer😒.
+Also try not to ask your Performance directly you will get some boring answer😒.
 
 He then asked me what do you mean by Hierarchy I told
 
