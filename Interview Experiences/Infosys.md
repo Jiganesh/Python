@@ -42,8 +42,12 @@ Hence Output is 1
 
 My Solution in Python3
 
-n,array=int(input()),list(map(int,input().split(" ")))
-print(len(set([i[1]for i in sorted([[array.count(i),i] for i in array])[n:]]))) 
+'''python
+
+    n,array=int(input()),list(map(int,input().split(" ")))
+    print(len(set([i[1]for i in sorted([[array.count(i),i] for i in array])[n:]]))) 
+
+'''
 
 2.Alternate piece of vowels and consonants from word with min length 3 and max ASCII values
 
@@ -62,6 +66,7 @@ e --> vowels
 s --> consonants
 
 My Solution in Python3
+'''python
 
     s,ans,a,vowels= input(),"",[],['a','e','i','o','u']
     for i in s :
@@ -80,6 +85,7 @@ My Solution in Python3
         print(ans)
     else: 
         print('X') 
+'''
 
 On 14th June
 
