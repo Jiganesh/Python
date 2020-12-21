@@ -206,4 +206,3 @@ I got result today on 9th December --> I AM SELECTED FOR SES from HackwithInfy
 I received another mail for InfyTQ Upgradation test on 10th (Probably I cleared InfyTQ as well)
 Exam is on 13th December and Pattern is same as HackwithInfy's but I felt it difficult.
 
-***
