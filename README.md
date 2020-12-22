@@ -2,7 +2,6 @@ I have maintained a repository for all the important codes and concepts,I have l
 
 ***
 ## **FOLDERS** :
-
 ***
 
 **All Solved Problems --> Problems from Leetcode, HackerRank, and Code Forces**
@@ -17,7 +16,7 @@ I have maintained a repository for all the important codes and concepts,I have l
 
 **Linked List --> Linked List Important Algorithms**
 
-**OOPs - Pillars of OOPS**
+**OOPs --> Pillars of OOPS**
 
 **Searching --> Linear and Binary search Algorithms**
 

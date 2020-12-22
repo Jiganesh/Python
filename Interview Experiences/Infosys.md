@@ -15,6 +15,7 @@ I used DFS
 We were not given Testcase so I am not sure how much TC's I must have passed but hope for good and 1 and a 1/2 problem is sufficient I guess.
 HackwithInfy 
 
+***
 
 **INFYTQ**
 
@@ -42,8 +43,10 @@ Hence Output is 1
 
 My Solution in Python3
 
-n,array=int(input()),list(map(int,input().split(" ")))
-print(len(set([i[1]for i in sorted([[array.count(i),i] for i in array])[n:]]))) 
+
+    n,array=int(input()),list(map(int,input().split(" ")))
+    print(len(set([i[1]for i in sorted([[array.count(i),i] for i in array])[n:]]))) 
+
 
 2.Alternate piece of vowels and consonants from word with min length 3 and max ASCII values
 
@@ -63,6 +66,7 @@ s --> consonants
 
 My Solution in Python3
 
+
     s,ans,a,vowels= input(),"",[],['a','e','i','o','u']
     for i in s :
         a.append(1) if i in vowels else a.append(-1)    
@@ -80,6 +84,8 @@ My Solution in Python3
         print(ans)
     else: 
         print('X') 
+
+***
 
 On 14th June
 
@@ -198,4 +204,5 @@ I studied every CSE subject but wasn't asked any of it :( 😞
 I got result today on 9th December --> I AM SELECTED FOR SES from HackwithInfy
 
 I received another mail for InfyTQ Upgradation test on 10th (Probably I cleared InfyTQ as well)
-Exam is on 13th December and Pattern is same as HackwithInfy's 
+Exam is on 13th December and Pattern is same as HackwithInfy's but I felt it difficult.
+
