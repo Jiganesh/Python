@@ -23,7 +23,7 @@ HackwithInfy
 
 ROUND 1 ---> Mode of Conduct - Online👨‍💻
 Questions asked Aptitude, Python Programming (As I selected Python between Python and Java), DBMS, OOPS, DSA
-Medium
+They were Medium Level Questions.
 
 Round 2 ---> Mode of Conduct - 👨‍💻It was supposed to be Onsite but due to Pandemic it was shifted on to an  Online Platform
 14th June
