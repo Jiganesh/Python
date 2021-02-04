@@ -14,7 +14,7 @@
 
 **Interview Experiences --> My Interview Experiences**
 
-** Development** --> HTML codes
+**Development --> HTML codes**
 
 **Linked List --> Linked List Important Algorithms**
 
