@@ -9,19 +9,10 @@ print(SumOfPro([22,7,1,5,5,-2],[4,-1,21,12,10,-3]))
 
 # implement the function that find and return the minimum characters required to append at the end of str to make it palindrome
 
-
-
-
-
 def convertToPalindrome(str):
     for i in range( len(str)): 
         if str[-1]==str[i]:
             return str[:i][::-1]
-
-
-
-
-
 
 
 print(convertToPalindrome("abcdc"))
