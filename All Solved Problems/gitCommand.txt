@@ -1,0 +1,4 @@
+git add.
+git commit -m "Add the new file"
+git commit --amend --date="2021-08-28 15:00:00" --message="Previous Date"
+git push origin master
