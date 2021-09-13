@@ -1,0 +1,7 @@
+string = "".join([i for i in input() if i.isalnum()])
+print(string.replace("EF","")
+      .replace("G","")
+      .replace("56","")
+      .replace("7","")
+      .replace(" ","")
+    )
