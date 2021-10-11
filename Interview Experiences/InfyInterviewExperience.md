@@ -111,7 +111,7 @@ To my notice my Interview scheduled time was from 4 to 4.30 As Avg Interview spa
 
 I logged in 3.45 Sharp (I am very punctual and only one thing I hate is being late)🤗 and My Interviewer also logged In at 3.50
 
-recap on my Interviewer - He was VP and CTO at Infosys DA.
+recap on my Interviewer - He was VP and CTO at Infy DA.
 He had masters from University of Florida and He was Working on I guess technologies like RPA and Chatbots.
 I wont be able to judge someone in 30 min but He was cool like me XD
 
@@ -198,7 +198,7 @@ SE --> SES --> PP --> Techlead --> Analyst
 SES --> PP --> Enterprise Architect
 
 He answered very detailed and properly.
-For me Good Experience but very delayed, I learnt a lot this year and only because of Infosys, I hope I get SES there !! Pray for me YAll :)
+For me Good Experience but very delayed, I learnt a lot this year and only because of Infy, I hope I get SES there !! Pray for me YAll :)
 
 I still feel I messed up a little could have been better if i got some Technical Questions
 I studied every CSE subject but wasn't asked any of it :( 😞
