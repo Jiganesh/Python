@@ -111,16 +111,24 @@ To my notice my Interview scheduled time was from 4 to 4.30 As Avg Interview spa
 
 I logged in 3.45 Sharp (I am very punctual and only one thing I hate is being late)🤗 and My Interviewer also logged In at 3.50
 
+<<<<<<< HEAD:Interview Experiences/InfyInterviewExperience.md
 recap on my Interviewer - He was VP and CTO at Infy DA.
+=======
+recap on my Intervier - He was VP and CTO at Infosys DA.
+>>>>>>> parent of 90089c3... My Infosys Interview Experience:Interview Experiences/Infosys.txt
 He had masters from University of Florida and He was Working on I guess technologies like RPA and Chatbots.
 I wont be able to judge someone in 30 min but He was cool like me XD
 
 I was wearing formals, white formal shirt, blue Tie and my Blazzer and ofcourse Jeans.
 I wish I could wear Hoodie🤩
 LOL wear something below even though it is online Interview.
+<<<<<<< HEAD:Interview Experiences/InfyInterviewExperience.md
 I was looking like 😎Fat John wick with clean shave and without Guns:P
+=======
+I was looking like Fat Jhon wick with clean shave :P
+>>>>>>> parent of 90089c3... My Infosys Interview Experience:Interview Experiences/Infosys.txt
 
-We Caugth up with Greetings and Formality, Very Formal Kinda I guess I got comfortable early.
+We Caugth up with greetings and Formality
 
 then I was asked to show up my ID's I thinks it was for InfyTQ's Verification Process
 Then we  spent some few minutes taking up screenshots as he was supposed to do that XD
@@ -135,6 +143,7 @@ My Experiences during Internship
 My Work in ARC
 I have taught many student in my college from first year to third year from Robots to Python
 I told about my Youtube channel, my subscriber count.
+<<<<<<< HEAD:Interview Experiences/InfyInterviewExperience.md
 (" He said Good luck with that", so I am analyzing Interviews since 3 Months daily, I am Pro in this things, 
 Even though he spoke nicely that was negative comment.)😔
 
@@ -142,6 +151,11 @@ He then asked me to wait so that he can pull up my Resume
 
 (Also Smiling in Interview feels weird as hell)😛
 
+=======
+(" He said Good luck with that ",so I am analyzing Interviews since 3 Months daily, I am Pro in this things, Even though he spoke nicely
+that was negative comment.)
+
+>>>>>>> parent of 90089c3... My Infosys Interview Experience:Interview Experiences/Infosys.txt
 As I mentioned my work with Manual Bots in my Intro he asked what competitions have you gone
 
 Sumo Wrestling
@@ -156,7 +170,7 @@ I answered I worked on Ultrasonic and IR Sensors so using this we can detect Obs
 
 He refactored Question and asked How a Rock and a Ball can be detected ?
 I went on with Raspberry pi and pi Camera Module told I would use Open CV and Image Processing. (For me that was Satisfactory)
-(I have some smart friends, every technology I know they taugth me. I learnt nothing in my school and college, Self Study is looob)
+(I have some smart friends, every technology I know they taugth me.I learnt nothing in my school and college Self Stufy is looob)
 
 About my Internship as I worked as Quality Control and also as a DEVELOPER he asked me which you like the most.
 Definitely I told my work as QCE and as DEVELOPER I get to learn more at my own pace and all that fluff stuff
@@ -179,8 +193,15 @@ stack might use extra contiguous space in memory and pop is shitty Idea
 Reversal of linkedlist is good idea and setting up head pointer at Tail is pretty efficient
 both take O(n) for Reversal
 
+<<<<<<< HEAD:Interview Experiences/InfyInterviewExperience.md
 I wasnt able to explain in such way. If I was Interviewing myself I wont be satisfied.
 He asked my Hobbies😄
+=======
+
+I wasnt able to explain in such way, I talk shit when nervous or unexpected interactions. If i was INterviewing myself I wont be satisfied.
+
+HE asked my Hobbies
+>>>>>>> parent of 90089c3... My Infosys Interview Experience:Interview Experiences/Infosys.txt
 I  told I am a speedcuber I visit Campuses to play in competitions he asked any other hobby
 Like if u understand We already get so much less time how can we nurture our hobbies LOL 
 I shouldhv said cooking, But my brain was running like pentium chip.
@@ -188,9 +209,15 @@ I became a nerd🤓.
 
 I thing thats it guys then we moved to Any Questions part :
 
+<<<<<<< HEAD:Interview Experiences/InfyInterviewExperience.md
 I asked "AS I was Interviewed for SE and SES through InfyTQ and HackwithInfy I was going through Hierarchy of those I doesnt match Why is that so ?"
 Yeah I know pretty dope Question XD Tip --- Never ask their journey, They might already be bored 😒answering that question LOL
 Also try not to ask your Performance directly you will get some boring answer😒.
+=======
+I asked "AS I was Interviewed for SE and SES through INfyTQ and HackwithInfy I was going through Hierarchy of those I doesnt match Why is that so ?"
+Yeah I know pretty dope Question XD Tip --- Never ask their journey, They might already be vored answering that question LOL
+Also try not to ask your Performance directly u will get some shit answer.
+>>>>>>> parent of 90089c3... My Infosys Interview Experience:Interview Experiences/Infosys.txt
 
 He then asked me what do you mean by Hierarchy I told
 
@@ -198,7 +225,12 @@ SE --> SES --> PP --> Techlead --> Analyst
 SES --> PP --> Enterprise Architect
 
 He answered very detailed and properly.
+<<<<<<< HEAD:Interview Experiences/InfyInterviewExperience.md
 For me Good Experience but very delayed, I learnt a lot this year and only because of Infy, I hope I get SES there !! Pray for me YAll :)
+=======
+For me Good Experience but very delayed, I learnt a lot this year and only because of Infosy I hope I get SES there !! Pray for me YAll
+:)
+>>>>>>> parent of 90089c3... My Infosys Interview Experience:Interview Experiences/Infosys.txt
 
 I still feel I messed up a little could have been better if i got some Technical Questions
 I studied every CSE subject but wasn't asked any of it :( 😞
