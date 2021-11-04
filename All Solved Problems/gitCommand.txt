@@ -1,4 +1,37 @@
 git add.
 git commit -m "Add the new file"
-git commit --amend --date="2021-08-28 15:00:00" --message="Previous Date"
+git commit --amend --date="YYYY-MM-DD HH:MM:SS" --message="Previous Date"
 git push origin master
+
+git status // gives info on changes made
+git add . // all files 
+git add names.txt // changing individual file
+git commit -m "message" // commit
+
+git log // history of commits
+git reset <hash or commit> // all commits above it will be deleted
+
+git stash // go from staging area
+git stash pop // come back to staging area 
+git stash clear // remove 
+
+git remote add origin <url>
+git remote -v // shows all urls attached to this folder
+
+git push origin main
+git push <url>  <master>
+
+git branch <new branch name>
+git checkout <branch name>
+
+git remote add origin <url of repository>
+
+git remote -v // shows all the url attached to the folder
+
+checking git commands
+
+
+
+
+
+
