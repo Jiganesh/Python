@@ -24,4 +24,11 @@ git push <url>  <master>
 git branch <new branch name>
 git checkout <branch name>
 
+git remote add origin <url of repository>
+
+git remote -v // shows all the url attached to the folder
+
+
+
+
 
