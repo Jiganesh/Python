@@ -14,8 +14,6 @@
 
 **Interview Experiences --> My Interview Experiences**
 
-**Development --> HTML codes**
-
 **Linked List --> Linked List Important Algorithms**
 
 **OOPs --> Pillars of OOPS**
@@ -23,5 +21,3 @@
 **Searching --> Linear and Binary search Algorithms**
 
 **Sorting -->  All Sorting Algorithms**
-
-**Java --> Problems**
