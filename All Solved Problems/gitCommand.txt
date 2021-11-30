@@ -28,10 +28,3 @@ git remote add origin <url of repository>
 
 git remote -v // shows all the url attached to the folder
 
-checking git commands
-
-
-
-
-
-
