@@ -113,7 +113,8 @@ Interviewer : Software Developement Manager 7 Years of Experience (15 Minutes la
     TC : Optimal O(N)
     SC : O(N)
 
-- Questions 2 ("Solved Optimally after Explaining 4 separte solutions") ("I am not sure about solution I wrote at last" RIP ME)
+- Questions 2 ("Solved Optimally after Explaining 4 separate solutions") 
+    - I am not sure about solution I wrote at last, 👽 RIP ME
     - Probably Custom Question Based on Singly Linked List and Math (Didnt study Linked List in my entire Interview process LOL)
     - Medium Level Question
     TC : BruteForced O(N)
