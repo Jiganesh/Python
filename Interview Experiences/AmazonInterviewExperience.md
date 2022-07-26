@@ -21,7 +21,8 @@ Time Complexity of Solution : O(N) (avg for bucketSort) O(N^2) (worst for bucket
 Space Complexity of Solution : Made array of 2* (10**5) 😎 If Solution was not accepted I wouldhv optimized it, but got accepted so didn't change anything (IF IT WORKS DONT CHANGE)
 
 - Behavourial Questions
-Lots of Questions, Gave most relatable answer, Usually I just tick tick tick Questions like this but I just felt like reading what are those so did it seriously.
+Lots of Questions, Gave most relatable answer, Usually I just tick tick tick for Questions like this but I just felt like reading what are those so did it seriously.
+
 
 ##### Verdict Round 1: PASSED 🎉
 
@@ -115,7 +116,9 @@ Interviewer : Software Developement Manager 7 Years of Experience (15 Minutes la
 
 - Questions 2 ("Solved Optimally after Explaining 4 separate solutions") 
     - I am not sure about solution I wrote at last, 👽 RIP ME
-    - Probably Custom Question Based on Singly Linked List and Math (Didnt study Linked List in my entire Interview process LOL)
+    - Probably custom Question Based on Linked List and Math 
+    - Didnt study Linked List in my entire Interview process 🥲
+    - I actually started writing function, I should'hv gone with OOP approach : creating node class to get extra points.
     - Medium Level Question
     TC : BruteForced O(N)
     SC : O(1)
@@ -125,7 +128,10 @@ Interviewer : Software Developement Manager 7 Years of Experience (15 Minutes la
 - Any Questions
 
 
-##### Verdict Round 4 : UNKNOWN / UNKNOWN
+##### Verdict Round 4 : HIRED
+
+Thank you reading my Interview Experience.
+
 
 
 
