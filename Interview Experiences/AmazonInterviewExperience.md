@@ -131,6 +131,7 @@ Interviewer : Software Developement Manager 7 Years of Experience (15 Minutes la
 ##### Verdict Round 4 : HIRED
 
 ##### Things I could have done better:
+<!-- 
 - I treated this Interview as a Mock Interview. 
 - It takes a lot of knowledge to crack DSA Questions. So I didn't study before any Interview. 
 - I study DSA everyday so there is a quote :
@@ -138,9 +139,12 @@ Interviewer : Software Developement Manager 7 Years of Experience (15 Minutes la
 ```
 If you study everyday, not studying for one day wont matter &
 If you have not studied everyday, studying for one day wont matter
-```
+``` -->
 
-- I checked that I was using college Resume in which I didnt had any of recent acheivements and experience. Please do remember to update your Resume
+- I didn't study for my Interviews because of Office Work.
+- I got too relaxed during my Interview. 
+- During Behavourial Questions, cant stop thinking about my next DSA questions, got too excited.
+- I checked that I was using college Resume in which I didnt had any of recent acheivements and experience. Please remember to update your Resume
 
 
 
