@@ -147,7 +147,7 @@ If you have not studied everyday, studying for one day wont matter
 - I didn't study for my Interviews because of Office Work.
 - I got too relaxed during my Interview. 
 - During Behavourial Questions, cant stop thinking about my next DSA questions, got too excited.
-- I checked that I was using college Resume in which I didnt had any of recent acheivements and experience. Please remember to update your Resume
+- I checked that I was using college Resume in which I didnt had any of recent acheivements and experience. Please remember to update your Resume.
 
 
 
