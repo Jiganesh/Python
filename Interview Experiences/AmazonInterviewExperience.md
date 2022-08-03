@@ -140,6 +140,9 @@ Interviewer : Software Developement Manager 7 Years of Experience (15 Minutes la
 If you study everyday, not studying for one day wont matter &
 If you have not studied everyday, studying for one day wont matter
 ``` -->
+- I got too relaxed during my Interview.
+
+- During Behavourial Question, Cant stop thinking about DSA questions
 
 - I didn't study for my Interviews because of Office Work.
 - I got too relaxed during my Interview. 

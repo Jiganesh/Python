@@ -32,3 +32,5 @@ To test if the graph is bipartite
 For finding the strongly connected components of a graph
 For detecting cycles in a graph
 '''
+for a ,b,c in(1,2,3):
+    print(a,b,c)
