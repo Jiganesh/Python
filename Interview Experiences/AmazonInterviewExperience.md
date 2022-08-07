@@ -128,7 +128,7 @@ Interviewer : Software Developement Manager 7 Years of Experience (15 Minutes la
 - Any Questions
 
 
-##### Verdict Round 4 : HIRED
+##### Verdict Round 4 : HIRED 🥇
 
 ##### Things I could have done better:
 <!-- 
